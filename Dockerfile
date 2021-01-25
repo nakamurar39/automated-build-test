@@ -1,2 +1,2 @@
-FROM dockersamples/static-site
+FROM nakamurar39/static-site
 ENV AUTHOR="Ryota Nakamura"
